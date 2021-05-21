@@ -1,0 +1,181 @@
+body {
+    background-color: #f4f4f4;
+}
+
+.arrayContainer {
+    position: absolute;
+    left: 60px;
+    right: 60px;
+    bottom: 30px;
+}
+
+.arrayBar {
+    width: 2px;
+    background-color:cyan;
+    display: inline-block;
+    margin: 0 1px;
+}
+
+.sortButtons button {
+    position: inline-block;
+    margin-left: 10px;
+}
+
+.newArrayDiv {
+    position: absolute;
+    height: 10px;
+    width: 500px;
+}
+
+.slider0 {
+    position: absolute;
+    bottom: 110px;
+    left: 345px;
+}
+
+.slider00 {
+    position: absolute;
+    bottom: 91px;
+    left: 310px;
+}
+
+.slider01 {
+    position: absolute;
+    bottom: 91px;
+    left: 375px;
+}
+
+.slider1 {
+    position: absolute;
+    bottom: 109px;
+    left: 401.5px;
+}
+
+.slider02 {
+    position: absolute;
+    bottom: 91px;
+    left: 428px;
+}
+
+.slider2 {
+    position: absolute;
+    bottom: 109px;
+    left: 442px;
+}
+
+.slider03 {
+    position: absolute;
+    bottom: 91px;
+    left: 469.5px;
+}
+
+.slider3 {
+    position: absolute;
+    bottom: 109px;
+    left: 496px;
+}
+
+.slider04 {
+    position: absolute;
+    bottom: 91px;
+    left: 522px;
+}
+
+.slider4 {
+    position: absolute;
+    bottom: 109px;
+    left: 536.5px;
+}
+
+.newArrayButton {
+    position: absolute;
+    left: 225px;
+    bottom: 107.5px;
+    background-color: #ffcb8e;
+}
+
+.rangeSelector {
+    position: absolute;
+    bottom: 108.5px;
+    left: 190px;
+    width: fit-content;
+    height: fit-content;
+    margin: 0 0 0 0;
+}
+
+.numberOfComparisons {
+    position: absolute;
+    bottom: 108.5px;
+    right: 275px;
+    width: fit-content;
+    height: fit-content;
+    margin: 0 0 0 0;
+}
+
+.tcb {
+    position: absolute;
+    bottom: 108.5px;
+    right: 880px;
+    width: fit-content;
+    height: fit-content;
+    margin: 0 0 0 0;
+}
+
+.strclass {
+    position: absolute;
+    bottom: 108.5px;
+    left: 550px;
+    width: fit-content;
+    height: fit-content;
+    margin: 0 0 0 0;
+}
+
+.footer {
+    position: absolute;
+    width: fit-content;
+    height: fit-content;
+    left: 460px;
+    bottom: -17.5px;
+    margin: 0 0 0 0;
+}
+
+.countValue {
+    position: absolute;
+    bottom: 109px;
+    left: 1150px;
+    width: fit-content;
+    height: fit-content;
+    margin: 0 0 0 0;
+}
+
+.b1 {
+    background-color:#e1d89f;
+}
+
+.b2 {
+    background-color:#e1d89f;
+}
+
+.b3 {
+    background-color:#e1d89f;
+}
+
+.b4 {
+    background-color: #e1d89f;
+}
+
+.b5 {
+    background-color:#e1d89f;
+}
+
+.b6 {
+    background-color: #e1d89f;
+}
+
+.b7 {
+    background-color:#e1d89f;
+}
+
+.b8 {
+    background-color: #e1d89f;
+}
